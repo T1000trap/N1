@@ -1,0 +1,27 @@
+h1 {
+    background: red
+}
+.p1 {
+    background: blue;
+    font-size: 32pt;
+    color: green
+}
+.p2 {
+    border: 10pt solid yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+    margine-bottom: 80px;
+
+}
+.p3 {
+    font-weight: 900;
+    font-size: 24pt;
+    font-family: Courier New;
+    text-shadow: green 0 3px;
+}
+.p4 {
+    font-weight: 900;
+    font-size: 24px;
+    font-style: oblique;
+    text-align: center;
+}
